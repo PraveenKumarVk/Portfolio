@@ -25,7 +25,7 @@ const About = () => {
           <div className="flex justify-center items-center">
             <div className="aspect-square rounded-full overflow-hidden bg-gradient-to-br from-primary/10 to-accent/10">
               <img 
-                src="src/components/praveen.jpg" 
+                src="/src/components/praveen.jpg" 
                 alt="Developer Icon" 
                 className="h-full w-full object-cover"
               />
