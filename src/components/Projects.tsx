@@ -23,7 +23,7 @@ const projects = [
     demo: 'https://github.com/PraveenKumarVk/Training-LLM-from-scratch',
   },
   {
-    title: 'Traning LLM from Scratch',
+    title: 'Training LLM from Scratch',
     description: 'Trained a Large Language Model (LLM) from scratch using PyTorch, DeepSpeed, and custom tokenizers, implementing Supervised Fine-Tuning (SFT) and Reinforcement Learning with PPO for optimization.',
     tech: ['Python', 'PyTorch', 'LLM', 'DeepSpeed'],
     github: 'https://github.com/PraveenKumarVk/Training-LLM-from-scratch',
