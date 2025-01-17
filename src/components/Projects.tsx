@@ -9,6 +9,13 @@ import {
 
 const projects = [
   {
+    title: 'RepoWise',
+    description: 'A Full-stack AI-powered SaaS platform that revolutionizes GitHub project collaboration by providing AI-driven insights, seamless integrations, and efficient tools for managing projects, summarizing changes, and enhancing team communication.',
+    tech: ['Google Gemini AI', 'Next.js', 'Clerk', 'Stripe', 'Assembly AI','Octokit', 'Langchain'],
+    github: 'https://github.com/PraveenKumarVk/RepoWise',
+    demo: 'https://repo-wise.vercel.app/dashboard',
+  },
+  {
     title: 'AutoTagging RNN',
     description: 'Implemented an RNN-based Auto-Tagging system that automatically generates relevant tags for text data, enhancing content classification and retrieval.',
     tech: ['Python', 'Tensorflow', 'LSTM', 'RNN'],
