@@ -8,8 +8,8 @@ const About = () => {
           {/* Text Section */}
           <div className="flex flex-col justify-center space-y-4">
             <p className="text-gray-600 text-lg leading-relaxed text-justify">
-              I'm an <strong>AI Engineer</strong> and <strong>Data Scientist</strong> with a strong background in developing 
-              scalable machine learning solutions and intelligent systems. With years of experience in both industry and research, 
+              I'm an <strong>AI Engineer</strong> and <strong>Full Stack Developer</strong> with a strong background in developing 
+              scalable full stack websites, machine learning solutions and intelligent systems. With years of experience in both industry and research, 
               I specialize in building AI-powered applications that drive efficiency and solve real-world challenges.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed text-justify">
