@@ -24,14 +24,17 @@ const experiences = [
     ]
   },
   {
-    company: "CMR Infotechs",
-    role: "Data Scientist",
+    company: "Citi Bank",
+    role: "Software Engineer",
     period: "May 2019 - May 2022",
     location: "Hyderabad, India",
     achievements: [
-      "Created a rule-based chatbot using spaCy and NLTK, handling over 1M+ queries monthly.",
-      "Developed front-end banking workflows using Next.js and Tailwind CSS, reducing manual tasks by 20%.",
-      "Migrated rule-based NLU to a GPT-2 system on AWS SageMaker for improved accuracy."
+      "Developed a full-stack web application using Spring Boot, React and GraphQL, implementing microservices and real-time data processing with Apache Kafka, improving response times by 30% enabling live transaction updates."
+      "Designed GraphQL and RESTful APIs with JWT authentication, role-based access control (RBAC), and OAuth 2.0, ensuring robust security, encrypted storage, and API gateway protection in compliance with Citi’s standards."
+      "Developed and integrated an AI-powered chatbot using RASA, automating customer inquiries, loan eligibility checks, and FAQs, achieving 95% intent recognition accuracy and reducing support workload by 40%."
+      "Deployed and managed containerized applications using Docker, Kubernetes, and Terraform, ensuring fault-tolerant, scalable, and cost-efficient cloud infrastructure on AWS."
+      "Automated CI/CD pipelines using Jenkins and GitHub Actions, enabling seamless code integration, automated testing, and efficient deployments, reducing deployment time by 50% and improving development agility."
+      "Contributed to system design and architecture by implementing scalable microservices, design patterns, and reliability improvements, ensuring high availability and efficient scaling of enterprise applications"
     ]
   }
 ];
