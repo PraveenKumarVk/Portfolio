@@ -2,10 +2,10 @@ import { Briefcase } from 'lucide-react';
 
 const experiences = [
   {
-    company: "Probe Practice Solutions LLC",
+    company: "United Health Group",
     role: "AI Engineer",
     period: "Jul 2024 - Present",
-    location: "Round Rock, Texas",
+    location: "Remote, USA",
     achievements: [
       "Developed a claims explanation pipeline using fine-tuned GPT models and LangGraph, simplifying billing codes into patient-friendly summaries, reducing customer support queries by 40%.",
       "Built an LLM-based document processing system using Hugging Face Transformers and LangGraph's advanced orchestration, improving claim resolution time by 30%.",
