@@ -7,9 +7,11 @@ const experiences = [
     period: "Jul 2024 - Present",
     location: "Remote, USA",
     achievements: [
-      "Developed a claims explanation pipeline using fine-tuned GPT models and LangGraph, simplifying billing codes into patient-friendly summaries, reducing customer support queries by 40%.",
-      "Built an LLM-based document processing system using Hugging Face Transformers and LangGraph's advanced orchestration, improving claim resolution time by 30%.",
-      "Implemented claims summarization tool with OpenAI APIs and LangGraph, reducing processing time by 25%."
+      "Developed a claims explanation pipeline by fine-tuning LLMs such as GPT, BERT, LLaMA with LangChain and AI/ML technologies, achieving 95% accuracy in simplifying billing codes and reducing customer queries by 40%.",
+      "Designed and deployed an AI-driven claims summarization tool using OpenAI APIs, Pinecone for vector retrieval, and AIOps, streamlining claim audits and improving operational efficiency.",
+      "Implemented LoRA and QLoRA for parameter-efficient tuning and deployed AI models on AWS SageMaker, Kubernetes, and MLflow, ensuring scalability and cost optimization.",
+      "Applied Computer Vision techniques to automate image analysis of claims documents, improving processing speed by 95%, integrating a Human-in-the-Loop (HITL) mechanism for quality control.",
+      "Ensured compliance with HIPAA, integrating bias monitoring, model interpretability, and regulatory adherence using DeepChecks for fraud detection and claims validation."
     ]
   },
   {
