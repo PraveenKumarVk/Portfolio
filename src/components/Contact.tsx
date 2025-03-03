@@ -12,7 +12,7 @@ const Contact = () => {
           </p>
           
           <a
-            href="mailto:pvarkala33@gmail.com"
+            href="mailto:praveenvkforjob@gmail.com"
             className="inline-flex items-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors"
           >
             <Mail size={20} className="mr-2" />
