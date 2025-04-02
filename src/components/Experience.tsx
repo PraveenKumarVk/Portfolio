@@ -2,9 +2,18 @@ import { Briefcase } from 'lucide-react';
 
 const experiences = [
   {
+    company: "Global Atlantic Financial Group",
+    role: "Senior Software Engineer",
+    period: "Apr 2025 - Present",
+    location: "Boston, USA",
+    achievements: [
+      "Yet to be updated"
+      ]
+  },
+  {
     company: "United Health Group",
     role: "AI Engineer",
-    period: "Jul 2024 - Present",
+    period: "Jul 2024 - Mar 2025",
     location: "Remote, USA",
     achievements: [
       "Developed a claims explanation pipeline by fine-tuning LLMs such as GPT, BERT, LLaMA with LangChain and AI/ML technologies, achieving 95% accuracy in simplifying billing codes and reducing customer queries by 40%.",
