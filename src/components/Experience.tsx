@@ -2,16 +2,29 @@ import { Briefcase } from 'lucide-react';
 
 const experiences = [
   {
+    company: "Meta",
+    role: "Software Engineer II",
+    period: "Jun 2025 - Present",
+    location: "Remote, USA",
+    achievements: [
+      "Led evaluation and productionization of a multi-task diffusion model enabling precise image edits via natural language instructions, enhancing user engagement and retention by 40%",
+      "Built a web-based evaluation interface in Next.js, allowing research teams to run inference, annotate outputs, and submit feedback",
+      "Engineered Hive storage pipelines for 10M+ inference results, enabling efficient retrieval, and model comparison across evaluation runs",
+      "Collaborated across research and infra teams on multiple image and video generation models, contributing features for multimodal evaluation and scaling to 100K+ generations/day"
+      ]
+  },{
     company: "Global Atlantic Financial Group",
     role: "Senior Software Engineer",
-    period: "Apr 2025 - Present",
+    period: "Apr 2025 - Jun 2025",
     location: "Boston, USA",
     achievements: [
-      "Yet to be updated"
+      "Deployed a RAG platform using Next.js, FastAPI, AWS Bedrock, and PostgreSQL, providing role-based access to internal databases and reducing employee query resolution time by 40%",
+      "Implemented a text-to-SQL engine with LLMs fine-tuned for enterprise schemas, automatically generating SQL queries executed against internal data warehouses and feeding results into BI workflows",
+      "Launched a dashboard builder module using Chart.js where users could combine multiple charts, edit, share, and export visualizations"
       ]
   },
   {
-    company: "United Health Group",
+    company: "Probe Practice Solutions",
     role: "AI Engineer",
     period: "Jul 2024 - Mar 2025",
     location: "Remote, USA",
@@ -25,27 +38,25 @@ const experiences = [
   },
   {
     company: "Hexagon Capability Center India",
-    role: "Software Developer",
+    role: "Software Engineer",
     period: "Aug 2022 - Dec 2022",
     location: "Hyderabad, India",
     achievements: [
-      "Optimized Oracle SQL databases processing 10TB+ data with Hive, integrating Docker for scalable workflows.",
-      "Built ETL pipelines in Snowflake and HDFS, processing 500GB+ daily, with AWS Lambda for automation.",
-      "Applied regression models for SLA breach predictions with Datadog, improving on-time delivery rates by 15%."
+      "Improved performance of a C# 3D visualization module by reducing model load times by ~30%, achieved through memory optimization and multithreading techniques",
+      "Reduced defect backlog by ~20% by refactoring legacy code into reusable, modular components and object-oriented design patterns",
+      "Increased system scalability by implementing efficient data-handling layers that integrated plant metadata with SQL databases, enabling faster retrieval and visualization of thousands of records"
     ]
   },
   {
     company: "Citi Bank",
     role: "Software Engineer",
-    period: "May 2019 - May 2022",
+    period: "Dec 2020 - May 2022",
     location: "Hyderabad, India",
     achievements: [
       "Developed a full-stack web application using Spring Boot, React and GraphQL, implementing microservices and real-time data processing with Apache Kafka, improving response times by 30% enabling live transaction updates.",
-      "Designed GraphQL and RESTful APIs with JWT authentication, role-based access control (RBAC), and OAuth 2.0, ensuring robust security, encrypted storage, and API gateway protection in compliance with Citi’s standards.",
-      "Developed and integrated an AI-powered chatbot using RASA, automating customer inquiries, loan eligibility checks, and FAQs, achieving 95% intent recognition accuracy and reducing support workload by 40%.",
-      "Deployed and managed containerized applications using Docker, Kubernetes, and Terraform, ensuring fault-tolerant, scalable, and cost-efficient cloud infrastructure on AWS.",
-      "Automated CI/CD pipelines using Jenkins and GitHub Actions, enabling seamless code integration, automated testing, and efficient deployments, reducing deployment time by 50% and improving development agility.",
-      "Contributed to system design and architecture by implementing scalable microservices, design patterns, and reliability improvements, ensuring high availability and efficient scaling of enterprise applications"
+      "Architected a secure, cloud-native banking platform using React, Spring boot, and hibernate integrated with Apache Kafka for event-driven architecture, improving system scalability and reducing response times by 30%",
+      "Integrated an NLP-powered chatbot using RASA and spaCy, automating loan eligibility check, achieving 95% intent recognition accuracy",
+      "Optimized database queries and caching with PostgreSQL, Redis and automated CI/CD pipelines using Jenkins and Terraform, reducing deployment time by 50%"
     ]
   }
 ];
