@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center animate-fade-up">
           <h1 className="text-4xl md:text-6xl font-bold text-secondary mb-6">
-            AI Engineer & Full stack engineer
+            AI Full stack engineer
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
             Building scalable AI solutions and transforming data into impactful insights
